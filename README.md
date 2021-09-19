@@ -9,30 +9,10 @@
 [![maintenance][maintenance-shield]][maintenance-url]
 [![python][python-shield]][python-url]
 [![gpl][gpl-shield]][gpl-url]
+[![coverage][coverage-shield]][coverage-url]
+
+
 [![django][django-shield]][django-url]
-
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="99" height="20">
-    <linearGradient id="b" x2="0" y2="100%">
-        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-        <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <mask id="a">
-        <rect width="99" height="20" rx="3" fill="#fff"/>
-    </mask>
-    <g mask="url(#a)">
-        <path fill="#555" d="M0 0h63v20H0z"/>
-        <path fill="#a4a61d" d="M63 0h36v20H63z"/>
-        <path fill="url(#b)" d="M0 0h99v20H0z"/>
-    </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="31.5" y="15" fill="#010101" fill-opacity=".3">coverage</text>
-        <text x="31.5" y="14">coverage</text>
-        <text x="80" y="15" fill="#010101" fill-opacity=".3">86%</text>
-        <text x="80" y="14">86%</text>
-    </g>
-</svg>
-
 
  <h3 align="center">ParSnip</h3>
 
@@ -155,3 +135,8 @@ Distributed under the GPLv3 Licence. See `LICENSE` for more information.
 
 [django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
 [django-url]: https://www.djangoproject.com/
+
+[coverage-shield]: https://cdn.discordapp.com/attachments/835980261258166275/889246755609280582/coverage.svg
+[coverage-url]: https://github.com/CodeCarefully/ParSnip
+
+
