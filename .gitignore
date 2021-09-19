@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+DB.Browser.for.SQLite
+.idea
